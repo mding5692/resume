@@ -95,7 +95,7 @@ i { font-size: 16px; }
 
 
 /* layout */
-.main { margin: 0 auto; background-color: #fff; }
+.main { margin: 0 auto; background-color: #f1c40f; }
 .content { width: 88%; padding: 6%; margin: 0; }
 .header { padding: 0 0 3%; }
 .avatar { width: 152px; height: 152px; position: relative; }
