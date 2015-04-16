@@ -12,7 +12,7 @@ i {font-style: normal;}
 
 
 /* begin */
-body { font-family:'微软雅黑','Microsoft Yahei','Arail'; font-size: 12px; color: #666; background-color: #2c3e50; }
+body { font-family:'微软雅黑','Microsoft Yahei','Arail'; font-size: 12px; color: #666; background-color: #2980b9; }
 a,a:hover,a:active { -webkit-tap-highlight-color:rgba(0,0,0,0); text-decoration: none; }
 html, body { *overflow-x:hidden; -webkit-overflow-scrolling:touch; }
 body.of { overflow: hidden; }
@@ -95,7 +95,7 @@ i { font-size: 16px; }
 
 
 /* layout */
-.main { margin: 0 auto; background-color: #f1c40f; }
+.main { margin: 0 auto; background-color: #ecf0f1; }
 .content { width: 88%; padding: 6%; margin: 0; }
 .header { padding: 0 0 3%; }
 .avatar { width: 152px; height: 152px; position: relative; }
